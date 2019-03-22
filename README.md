@@ -32,11 +32,16 @@ Vue.use(selector)
 </template>
 
 说明：
+``` bash
 title         选择器模态框的标题（如：部门选择器、人员选择器、器材选择器等等）可以自定义
-model         选择器是否显示
-checkedDatas  为数组，已被选择的数据或者默认选择的数据
-datas         可供选择的数据
-getSelectData 选择数据确定之后触发的操作
 
+model         选择器是否显示
+
+checkedDatas  已选择的数据或者默认选择的数据
+
+datas         可供选择的数据
+
+getSelectData 选择数据确定之后触发的操作
+```
 
 传输数据eg:
