@@ -17,9 +17,18 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
+此选择器的style参考 https://github.com/alexLlyCommit/vue-selectl 
+不知道怎么联系这位大大，所以在此注明，样式文件有参考，因为不太适用于我们的项目，使用element-ui,v-bar滚动条
+
+支持自定义选择器标题，组织树icon,以及组织树的快速搜索,默认选择成员等
+
+注意自定义icon,可以去阿里矢量图标库下载自己所需要的图标，放到icon文件夹下即可（具体操作大家可以百度）
+
+然后后台对应传输icon值就可以
+
+
 ![image](https://github.com/KatieZeng007/image-center/blob/master/5f903108f18a93ab4a3f68fbe04093c.png)
 
-自定义选择器，支持自定义选择器标题，icon,以及组织树的快速搜索
 
 使用方式
 main.js引入
