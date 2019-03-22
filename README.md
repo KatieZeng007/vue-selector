@@ -16,6 +16,9 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+![image](https://github.com/KatieZeng007/image-center/blob/master/5f903108f18a93ab4a3f68fbe04093c.png)
+
 自定义选择器，支持自定义选择器标题，icon,以及组织树的快速搜索
 
 使用方式
